@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode 100 Days Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Badge" height="200" width="200" />
     </a>
   </p>
 
@@ -43,6 +43,3 @@ Here are some ideas to get you started:
 
   <br/>
 </div>
-
-
-
