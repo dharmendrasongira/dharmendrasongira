@@ -1,115 +1,64 @@
-# ✨ Dharmendra Songira ✨
-## 🚀 Full Stack Developer | MERN Specialist
+# ✨ Dharmendra Songira ✨  
+## 🚀 Full Stack Developer | MERN Enthusiast  
 
-<div align="center">
-  <img src="https://api.placeholder.com/400/320" alt="Banner image" width="800"/>
-</div>
-
-<p align="center">
-  <em>Crafting elegant solutions with code | Building digital experiences that matter</em>
-</p>
+🚀 Passionate **MERN stack developer** with a problem-solving mindset, dedicated to crafting scalable and user-friendly web applications. Currently pursuing **B.E. in Information Technology** at **Acropolis Institute of Technology and Research, Indore**.  
 
 ---
 
-## 💫 About Me
-I'm a passionate full-stack developer with a creative mindset and a methodical approach to problem-solving. Currently pursuing my B.E. in Information Technology, I blend technical expertise with innovative thinking to create applications that not only function flawlessly but also provide exceptional user experiences.
+## 💡 Tech Stack  
 
-<div align="center">
-  <img src="https://api.placeholder.com/150/150" alt="Profile image" width="150" style="border-radius:50%"/>
-</div>
+🔹 **Frontend:** React.js, Redux, HTML/CSS, Tailwind CSS, Bootstrap  
+🔹 **Backend:** Node.js, Express.js, MongoDB, SQL, JWT  
+🔹 **Tools:** Git, Postman, VS Code, REST APIs, Socket.io  
 
-## 🌟 Highlights
-- 🎓 B.E. Information Technology student at Acropolis Institute of Technology and Research
-- 💻 Expert in MERN stack development
-- 🔍 Focused on creating intuitive and responsive web applications
-- 🌱 Continuous learner and technology enthusiast
-- 🤝 Collaborative team player with strong communication skills
+---
 
-## 🛠️ Tech Constellation
-<div align="center">
+## 🏆 Projects  
 
-| Frontend | Backend | Tools & Others |
-|----------|---------|----------------|
-| React.js | Node.js | Git |
-| Redux | Express.js | Visual Studio |
-| HTML5/CSS3 | MongoDB | Postman |
-| Tailwind CSS | Mongoose | RESTful APIs |
-| Bootstrap | SQL | JWT Authentication |
-|  |  | Socket.IO |
+### 🔹 [EduVed - Study Hub & Book Exchange](#)  
+📚 Study platform for **RGPV BTech students** offering notes & a book marketplace.  
+🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
 
-</div>
+### 🔹 [HomiSphere - Real Estate Marketplace](#)  
+🏡 Buy, sell, and rent properties with **real-time chat & interactive maps**.  
+🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io  
 
-## 🏆 Signature Projects
+### 🔹 [AI Code Reviewer](#)  
+🤖 AI-powered tool for **code analysis & optimization** using Gemini API.  
+🔹 **Tech Stack:** React.js, Node.js, Express.js, Gemini API  
 
-### ✨ EduVed - Study Hub and Book Exchange
-<div align="center">
-  <img src="https://api.placeholder.com/400/200" alt="EduVed Project" width="700"/>
-</div>
+---
 
-A revolutionary platform empowering RGPV BTech students with:
-- 📚 Comprehensive chapter-wise study notes and previous year questions
-- 📖 Seamless book exchange marketplace within college communities
-- 🔍 Intelligent search and intuitive categorization
-- 💻 **Crafted with:** React.js, Express.js, Node.js, MongoDB, Tailwind CSS
+## 📜 Certifications  
 
-### 🏡 HomiSphere - Real Estate Marketplace
-<div align="center">
-  <img src="https://api.placeholder.com/400/200" alt="HomiSphere Project" width="700"/>
-</div>
+✔️ **MERN Development** – Infosys Springboard  
+✔️ **Database Management System** – NPTEL, IIT Kharagpur  
+✔️ **HTML, CSS3, JavaScript for Web Development** – Infosys Springboard  
 
-An immersive real estate experience featuring:
-- 🏘️ Comprehensive property listings for buying, selling, and renting
-- 🗺️ Interactive map interface with location-based search
-- 💬 Real-time communication system using Socket.io
-- 💻 **Crafted with:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.IO
+---
 
-### 🤖 AI Code Reviewer
-<div align="center">
-  <img src="https://api.placeholder.com/400/200" alt="AI Code Reviewer Project" width="700"/>
-</div>
+## 📈 GitHub Stats  
 
-An intelligent code companion offering:
-- 📊 AI-powered analysis using Gemini API
-- 📝 Smart suggestions for code optimization
-- ⚡ Real-time feedback through an intuitive interface
-- 💻 **Crafted with:** Express.js, React.js, Node.js, Gemini API
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" height="150"/>
+</p>  
 
-## 🎓 Knowledge Pathways
-- 🏅 MERN: Advanced MERN Development (Infosys Springboard)
-- 🏅 Database Management System (NPTEL, IIT Kharagpur)
-- 🏅 HTML for Web Development (Infosys Springboard)
-- 🏅 CSS3 (Infosys Springboard)
-- 🏅 JavaScript for Web Development (Infosys Springboard)
+---
 
-## 📈 GitHub Chronicles
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🌐 Connect with Me  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+📧 **Email:** [dharmendrasongira259@gmail.com](mailto:dharmendrasongira259@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/dharmendra-songira](https://www.linkedin.com/in/dharmendra-songira-8ab218280/)  
+💻 **GitHub:** [github.com/dharmendrasongira](https://github.com/dharmendrasongira)  
+🌍 **Portfolio:** [dharmendrasongiraportfolio.onrender.com](https://dharmendrasongiraportfolio.onrender.com)  
 
-## 🌐 Connect & Collaborate
-<div align="center">
-  <a href="mailto:dharmendrasongira259@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+📱 **Phone:** +91 9752826161  
 
-<div align="center">
-  <p>📱 +91 9752826161</p>
-</div>
+---
+
+🚀 *Let’s build something amazing together!*  
+
 
 
 
