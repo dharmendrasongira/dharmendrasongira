@@ -1,47 +1,113 @@
 # ✨ Dharmendra Songira ✨  
 ## 🚀 Full Stack Developer | MERN Enthusiast  
 
-🚀 Passionate **MERN stack developer** with a problem-solving mindset, dedicated to crafting scalable and user-friendly web applications. Currently pursuing **B.E. in Information Technology** at **Acropolis Institute of Technology and Research, Indore**.  
+<div align="center">
+  <img src="https://api.placeholder.com/800x320" alt="Banner image" width="800"/>
+</div>
+
+<p align="center">
+  <em>Building scalable web applications | Crafting seamless user experiences</em>
+</p>
 
 ---
 
-## 💡 Tech Stack  
+## 💡 About Me  
+🎓 B.E. in Information Technology at **Acropolis Institute of Technology and Research, Indore**  
+💻 MERN Stack Developer focused on creating **efficient & scalable** web solutions  
+🌱 Passionate about **problem-solving, AI, and real-time applications**  
 
-🔹 **Frontend:** React.js, Redux, HTML/CSS, Tailwind CSS, Bootstrap  
-🔹 **Backend:** Node.js, Express.js, MongoDB, SQL, JWT  
-🔹 **Tools:** Git, Postman, VS Code, REST APIs, Socket.io  
+<div align="center">
+  <img src="https://api.placeholder.com/150x150" alt="Profile image" width="150" style="border-radius:50%"/>
+</div>
 
 ---
 
-## 🏆 Projects  
+## 🛠️ Tech Stack  
 
-### 🔹 [EduVed - Study Hub & Book Exchange](#)  
-📚 Study platform for **RGPV BTech students** offering notes & a book marketplace.  
+<div align="center">
+
+| Frontend | Backend | Tools |
+|----------|---------|-------|
+| React.js, Redux | Node.js, Express.js | Git, Postman |
+| HTML5, CSS3, Tailwind CSS | MongoDB, SQL | VS Code, REST APIs |
+| Bootstrap | JWT, Socket.io | Agile, WebSockets |
+
+</div>
+
+---
+
+## 🏆 Featured Projects  
+
+### 🔹 EduVed - Study Hub & Book Exchange  
+📚 A study platform for **RGPV BTech students** with notes & a book marketplace.  
 🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
 
-### 🔹 [HomiSphere - Real Estate Marketplace](#)  
-🏡 Buy, sell, and rent properties with **real-time chat & interactive maps**.  
+### 🔹 HomiSphere - Real Estate Marketplace  
+🏡 A **real estate platform** with **real-time chat & interactive maps**.  
 🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io  
 
-### 🔹 [AI Code Reviewer](#)  
-🤖 AI-powered tool for **code analysis & optimization** using Gemini API.  
+### 🔹 AI Code Reviewer  
+🤖 AI-powered **code analysis & optimization** using **Gemini API**.  
 🔹 **Tech Stack:** React.js, Node.js, Express.js, Gemini API  
 
 ---
 
 ## 📜 Certifications  
 
-✔️ **MERN Development** – Infosys Springboard  
-✔️ **Database Management System** – NPTEL, IIT Kharagpur  
-✔️ **HTML, CSS3, JavaScript for Web Development** – Infosys Springboard  
+🏅 **MERN Development** – Infosys Springboard  
+🏅 **Database Management System** – NPTEL, IIT Kharagpur  
+🏅 **HTML, CSS3, JavaScript** – Infosys Springboard  
+
+---
+
+## 📈 GitHub Insights  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🌐 Let's Connect  
+
+<div align="center">
+  <a href="mailto:dharmendrasongira259@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/dharmendra-songira-8ab218280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dharmendrasongira">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://dharmendrasongiraportfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  📱 +91 9752826161
+</div>
+
+---
+
+<p align="center">✨ <em>Let’s build something amazing together!</em> ✨</p>
 
 ---
 
 
-  <h2 align="center">🔥 LeetCode Stats 🔥</h2>
+
+
+<p align="center">✨ <em>Thanks for visiting my digital garden. Let's build something amazing together!</em> ✨</p>
+<div align="center"> 
+  <h2 align="center">🏆 My LeetCode Badges 🏆</h2>
   <p align="center">
     <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
-      <img align="center" src="https://leetcard.jacoblin.cool/dharmendrasongira?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Badge" height="200" width="200" />
     </a>
   </p>
 
@@ -73,16 +139,3 @@
 🚀 *Let’s build something amazing together!*  
 
 
-
-
-<p align="center">✨ <em>Thanks for visiting my digital garden. Let's build something amazing together!</em> ✨</p>
-<div align="center"> 
-  <h2 align="center">🏆 My LeetCode Badges 🏆</h2>
-  <p align="center">
-    <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Badge" height="200" width="200" />
-    </a>
-  </p>
