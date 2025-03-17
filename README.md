@@ -47,39 +47,35 @@
 🏅 **HTML, CSS3, JavaScript** – Infosys Springboard  
 
 ---
+<div align="center"> 
+  <h2 align="center">🏆 My LeetCode Badges 🏆</h2>
+  <p align="center">
+    <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Badge" height="200" width="200" />
+    </a>
+  </p>
 
-## 📈 GitHub & LeetCode Stats  
+  <h2 align="center">🔥 LeetCode Stats 🔥</h2>
+  <p align="center">
+    <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
+      <img align="center" src="https://leetcard.jacoblin.cool/dharmendrasongira?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+    </a>
+  </p>
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmendrasongira&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendrasongira&theme=tokyonight&hide_border=true" height="150"/>
-</p>  
+  <br/>
+  
+  <h2 align="center">⚡ GitHub Stats ⚡</h2>
+  <div align="center">
+    <img width=390 src="https://streak-stats.demolab.com/?user=dharmendrasongira&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=dharmendrasongira&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendrasongira&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
+  </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmendrasongira&theme=tokyonight" alt="GitHub Graph Stats" />
-</p>  
-
----
-
-### 🏆 LeetCode Stats & Badges  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dharmendrasongira?theme=dark&font=ABeeZee&ext=activity" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Badge" height="200" width="200" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=dharmendrasongira&theme=dark" alt="LeetCode Graph Stats" />
-</p>
+  <br/>
+</div>
 
 ---
 
