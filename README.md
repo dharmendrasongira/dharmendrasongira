@@ -48,16 +48,23 @@
 
 ---
 
-## 📈 GitHub Insights  
+## 📈 GitHub & LeetCode Stats  
 
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmendrasongira&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendrasongira&theme=tokyonight&hide_border=true" height="150"/>
 </p>  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendrasongira&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>  
 
-## 🏆 My LeetCode Badges 🏆  
+### 🏆 LeetCode Stats & Badges  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dharmendrasongira?theme=dark&font=ABeeZee&ext=activity" alt="LeetCode Stats" />
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
