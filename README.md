@@ -57,8 +57,10 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendrasongira&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmendrasongira&theme=tokyonight" alt="GitHub Graph Stats" />
 </p>  
+
+---
 
 ### 🏆 LeetCode Stats & Badges  
 
@@ -73,6 +75,10 @@
   <a href="https://leetcode.com/dharmendrasongira/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Days Badge" height="200" width="200" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=dharmendrasongira&theme=dark" alt="LeetCode Graph Stats" />
 </p>
 
 ---
