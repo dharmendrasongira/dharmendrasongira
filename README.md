@@ -14,38 +14,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| React.js, Redux | Node.js, Express.js | Git, Postman |
-| HTML5, CSS3, Tailwind CSS | MongoDB, SQL | VS Code, REST APIs |
-| Bootstrap | JWT, Socket.io | Agile, WebSockets |
-
----
-
-## 🏆 Featured Projects  
-
-### 🔹 EduVed - Study Hub & Book Exchange  
-📚 A study platform for **RGPV BTech students** with notes & a book marketplace.  
-🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
-
-### 🔹 HomiSphere - Real Estate Marketplace  
-🏡 A **real estate platform** with **real-time chat & interactive maps**.  
-🔹 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io  
-
-### 🔹 AI Code Reviewer  
-🤖 AI-powered **code analysis & optimization** using **Gemini API**.  
-🔹 **Tech Stack:** React.js, Node.js, Express.js, Gemini API  
-
----
-
-## 📜 Certifications  
-
-🏅 **MERN Development** – Infosys Springboard  
-🏅 **Database Management System** – NPTEL, IIT Kharagpur  
-🏅 **HTML, CSS3, JavaScript** – Infosys Springboard  
-
 ---
 <div align="center"> 
   <h2 align="center">🏆 My LeetCode Badges 🏆</h2>
